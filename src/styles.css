@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+@import url("https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+:root {
+  --primary-color: #a9b5df;
+  --secondary-color: #7886c7;
+  --third-color: #2d336b;
+
+  --font-montserrat: "Montserrat", serif;
+  --font-krona: "Krona One", serif;
+}
