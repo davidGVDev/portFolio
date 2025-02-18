@@ -3,7 +3,7 @@
 :root {
   --primary-color: #a9b5df;
   --secondary-color: #7886c7;
-  --third-color: #2d336b;
+  --third-color: #414996;
 
   --gradient-first: #ffffff;
   --gradient-second: #d8d8ee;
@@ -12,6 +12,11 @@
 
   --font-montserrat: "Montserrat", serif;
   --font-krona: "Krona One", serif;
+}
+
+*{
+  margin: 0;
+  padding: 0;
 }
 
 @property --angle {
