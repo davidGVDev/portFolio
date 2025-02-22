@@ -4,10 +4,11 @@ import { ExperienceComponent } from "../experience/experience.component";
 import { ProyectsComponent } from "../proyects/proyects.component";
 import { TechnologiesComponent } from "../technologies/technologies.component";
 import { CoursesComponent } from "../courses/courses.component";
+import { FooterComponent } from "../footer/footer.component";
 
 @Component({
   selector: 'app-home',
-  imports: [AboutComponent, ExperienceComponent, ProyectsComponent, TechnologiesComponent, CoursesComponent],
+  imports: [AboutComponent, ExperienceComponent, ProyectsComponent, TechnologiesComponent, CoursesComponent, FooterComponent],
   templateUrl: './home.component.html',
   styleUrl: './home.component.css'
 })
