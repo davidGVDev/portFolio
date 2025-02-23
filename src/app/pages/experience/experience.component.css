@@ -1,0 +1,20 @@
+.experience-container-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2rem 0;
+  font-family: var(--font-krona);
+  color: var(--secondary-color);
+}
+.experience-container-list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem 0;
+    font-family: var(--font-montserrat);
+    color: var(--third-color);
+}
+
+ul{
+    list-style: none;
+}

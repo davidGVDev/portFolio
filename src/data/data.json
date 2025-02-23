@@ -56,5 +56,19 @@
       "alt": "Vscode",
       "path": "../../../assets/img/logos/vscode.png"
     }
+  ],
+  "experiences": [
+    "Análisis y desarrollo: Diseño, desarrollo y optimización de aplicaciones web en base a los requisitos del usuario final, asegurando alto rendimiento y usabilidad.",
+    "Desarrollo en Angular: Mantenimiento y mejora de aplicaciones en Angular, implementando nuevas funcionalidades basadas en historias de usuario y garantizando un código limpio y eficiente.",
+    "Integración con APIs: Consumo y gestión de APIs RESTful desarrolladas en Spring Boot para conectar el Front End con servicios de Back End.",
+    "Liderazgo técnico: Coordinación del equipo Front End para mejorar prácticas de desarrollo en aplicaciones internas y externas, optimizando rendimiento y escalabilidad.",
+    "Arquitectura y servidores: Configuración y gestión de servidores de aplicaciones como WebLogic, WebSphere y JBoss. Implementación de contenedores Docker para bases de datos SQL.",
+    "Desarrollo multiplataforma: Creación de una aplicación interna en Angular y Electron.js para la generación de documentos estáticos (.txt) en Windows y macOS.",
+    "Diseño UX/UI: Creación de plantillas y mockups en Figma para mejorar la experiencia del usuario, haciéndolas más intuitivas y accesibles.",
+    "Automatización y CRM: Desarrollo de scripts en Deluge para la personalización y automatización de Zoho People y Zoho CRM.",
+    "Pruebas y documentación: Apoyo en la ejecución de pruebas unitarias y de seguridad, además de la documentación técnica para nuevas versiones de aplicaciones.",
+    "Optimización y mejora continua: Investigación y análisis de nuevas arquitecturas para mejorar el rendimiento y escalabilidad de las aplicaciones.",
+    "Metodologías ágiles: Trabajo bajo SCRUM, participando en sprints y asegurando entregas iterativas y de calidad.",
+    "Control de versiones y repositorios: Manejo de Git para el control de versiones, gestionando repositorios en GitHub y Bitbucket para la colaboración en equipo y el seguimiento de cambios en el código."
   ]
 }
