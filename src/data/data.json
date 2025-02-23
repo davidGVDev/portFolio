@@ -106,5 +106,27 @@
       "title": "Control de versiones y repositorios",
       "description": "Manejo de Git para el control de versiones, gestionando repositorios en GitHub y Bitbucket para la colaboración en equipo y el seguimiento de cambios en el código."
     }
+  ],
+  "socials": [
+    {
+      "alt": "LinkedIn",
+      "path": "../../../assets/img/socialNetworks/linkEdin.png",
+      "link":"https://www.linkedin.com/in/david-gustavo-ventura-villesca-2a158615b/"
+    },
+    {
+      "alt": "GitHub",
+      "path": "../../../assets/img/socialNetworks/github.png",
+      "link":"https://github.com/davidGVDev"
+    },  
+    {
+      "alt": "Instagram",
+      "path": "../../../assets/img/socialNetworks/instagram.png",
+      "link":"https://www.instagram.com/david_ventur/"
+    },
+    {
+      "alt": "Facebook",
+      "path": "../../../assets/img/socialNetworks/facebook.png",
+      "link":"https://www.facebook.com/david.venturavillesca"
+    }
   ]
 }

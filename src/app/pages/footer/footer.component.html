@@ -1,1 +1,12 @@
-<p>footer works!</p>
+<div class="footer">
+    <div class="footer-title">
+        <h2>Contacto</h2>
+    </div>
+    <div class="footer-socials">
+        <div class="footer-container" *ngFor="let social of socials">
+            <a target="_blank" [href]="social.link">
+                <img [src]="social.path" [alt]="social.alt">
+            </a>
+        </div>
+    </div>
+</div>
