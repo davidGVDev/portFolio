@@ -1,0 +1,60 @@
+{
+  "technologies": [
+    {
+      "alt": "HTML",
+      "path": "../../../assets/img/logos/html.png"
+    },
+    {
+      "alt": "CSS",
+      "path": "../../../assets/img/logos/css.png"
+    },
+    {
+      "alt": "Js",
+      "path": "../../../assets/img/logos/javaScript.png"
+    },
+    {
+      "alt": "Ts",
+      "path": "../../../assets/img/logos/typeScript.png"
+    },
+    {
+      "alt": "Bootstrap",
+      "path": "../../../assets/img/logos/bootstrap.png"
+    },
+    {
+      "alt": "Angular",
+      "path": "../../../assets/img/logos/angular.png"
+    },
+    {
+      "alt": "Docker",
+      "path": "../../../assets/img/logos/docker.png"
+    },
+    {
+      "alt": "Nodejs",
+      "path": "../../../assets/img/logos/nodejs.png"
+    },
+    {
+      "alt": "Git",
+      "path": "../../../assets/img/logos/git.png"
+    },
+    {
+      "alt": "GitHub",
+      "path": "../../../assets/img/logos/github.png"
+    },
+    {
+      "alt": "mySQL",
+      "path": "../../../assets/img/logos/mysql.png"
+    },
+    {
+      "alt": "PostgreSQL",
+      "path": "../../../assets/img/logos/postgresql.png"
+    },
+    {
+      "alt": "Electronjs",
+      "path": "../../../assets/img/logos/electron.png"
+    },
+    {
+      "alt": "Vscode",
+      "path": "../../../assets/img/logos/vscode.png"
+    }
+  ]
+}

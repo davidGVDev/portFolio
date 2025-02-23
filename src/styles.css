@@ -19,7 +19,7 @@
   padding: 0;
 }
 
-@property --angle {
+/* @property --angle {
   syntax: "<angle>";
   initial-value: 0deg;
   inherits: false;
@@ -48,4 +48,4 @@ html {
   100% {
     --angle: 360deg;
   }
-}
+} */
