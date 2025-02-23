@@ -6,15 +6,30 @@
   font-family: var(--font-krona);
   color: var(--secondary-color);
 }
-.experience-container-list{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 2rem 0;
-    font-family: var(--font-montserrat);
-    color: var(--third-color);
+
+.experience-container-list {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin: 2rem 0;
+  font-family: var(--font-montserrat);
+  color: var(--third-color);
+  flex-wrap: wrap;
+  gap: 1rem;
 }
 
-ul{
-    list-style: none;
+.experience-container-list-item {
+  display: flex;
+  align-items: center;
+  gap: .5rem;
+  max-width: 45%;
+  min-width: 45%;
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+  padding: 1rem;
+  border-radius: 10px;
+  border: 1px solid var(--secondary-color);
+}
+.experience-container-list-icon{
+  color: green;
+  font-weight: bold;
 }
