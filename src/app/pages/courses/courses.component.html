@@ -10,7 +10,10 @@
           <h3>{{ course.alt }}</h3>
         </div>
       </a>
-      <i class="ph-light ph-eye icon-eye ph-xl"></i>
+      <i
+        class="ph-light ph-eye icon-eye ph-xl"
+        (click)="openCourseDialog(course)"
+      ></i>
     </div>
   </div>
 </div>
