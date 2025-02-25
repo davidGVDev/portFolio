@@ -64,7 +64,7 @@
     },
     {
       "title": "Desarrollo en Angular",
-      "description": "Mantenimiento y mejora de aplicaciones en Angular, implementando nuevas funcionalidades basadas en historias de usuario y garantizando un código limpio y eficiente."
+      "description": "Desarollo, mantenimiento y mejora de aplicaciones en Angular, implementando nuevas funcionalidades basadas en historias de usuario y garantizando un código limpio y eficiente."
     },
     {
       "title": "Integración con APIs",
@@ -127,6 +127,58 @@
       "alt": "Facebook",
       "path": "../../../assets/img/socialNetworks/facebook.png",
       "link":"https://www.facebook.com/david.venturavillesca"
+    }
+  ],
+  "courses": [
+    {
+      "alt": "JavaScript - Moderno",
+      "path": "../../../assets/img/courses/javaScriptModerno.jpg",
+      "link": "https://www.udemy.com/course/javascript-fernando-herrera/"
+    },
+    {
+      "alt": "Nest - Backend",
+      "path": "../../../assets/img/courses/nestBackend.jpg",
+      "link": "https://www.udemy.com/course/nest-framework/"
+    },
+    {
+      "alt": "Nodejs",
+      "path": "../../../assets/img/courses/nodeJs.jpg",
+      "link": "https://www.udemy.com/course/node-de-cero-a-experto/"
+    },
+    {
+      "alt": "PostgreSQL",
+      "path": "../../../assets/img/courses/postgreSQL.jpg",
+      "link": "https://www.udemy.com/course/sql-de-cero/"
+    },
+    {
+      "alt": "React cero a experto",
+      "path": "../../../assets/img/courses/reactCeroExperto.jpg",
+      "link": "https://www.udemy.com/course/react-cero-experto/"
+    },
+    {
+      "alt": "React Pro",
+      "path": "../../../assets/img/courses/reactPro.jpg",
+      "link": "https://www.udemy.com/course/react-pro/"
+    },
+    {
+      "alt": "Master en CSS",
+      "path": "../../../assets/img/courses/masterCSS.jpg",
+      "link": "https://www.udemy.com/course/master-en-css-responsive-sass-flexbox-grid-y-boostrap-4/"
+    },
+    {
+      "alt": "Master en JavaScript",
+      "path": "../../../assets/img/courses/masterJs.jpg",
+      "link": "https://www.udemy.com/course/master-en-javascript-aprender-js-jquery-angular-nodejs-y-mas/"
+    },
+    {
+      "alt": "Master en PHP",
+      "path": "../../../assets/img/courses/masterPHP.jpg",
+      "link": "https://www.udemy.com/course/master-en-php-sql-poo-mvc-laravel-symfony-4-wordpress/"
+    },
+    {
+      "alt": "Master en Python",
+      "path": "../../../assets/img/courses/masterPython.jpg",
+      "link": "https://www.udemy.com/course/master-en-python-aprender-python-django-flask-y-tkinter/"
     }
   ]
 }

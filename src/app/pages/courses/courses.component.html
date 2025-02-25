@@ -1,1 +1,16 @@
-<p>courses works!</p>
+<div class="courses-container">
+  <div class="courses-header">
+    <h2>Cursos</h2>
+  </div>
+  <div class="courses-list">
+    <div class="course-card" *ngFor="let course of courses">
+      <a [href]="course.link" target="_blank">
+        <img [src]="course.path" [alt]="course.alt" />
+        <div class="course-card-title">
+          <h3>{{ course.alt }}</h3>
+        </div>
+      </a>
+      <i class="ph-light ph-eye icon-eye ph-xl"></i>
+    </div>
+  </div>
+</div>
