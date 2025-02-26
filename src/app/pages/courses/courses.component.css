@@ -79,6 +79,7 @@ img {
 
 .course-card-title {
     padding-left: 10px;
+    font-size: .8rem;
 }
 .icon-eye{
     cursor: pointer;

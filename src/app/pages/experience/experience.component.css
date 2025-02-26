@@ -29,6 +29,15 @@
   border-radius: 10px;
   border: 1px solid var(--secondary-color);
 }
+
+/* Añadimos el media query para pantallas menores a 850px */
+@media screen and (max-width: 850px) {
+  .experience-container-list-item {
+    max-width: 90%;
+    min-width: 90%;
+  }
+}
+
 .experience-container-list-icon{
   color: green;
   font-weight: bold;

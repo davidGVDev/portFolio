@@ -6,11 +6,6 @@
   --secondary-color: #7886c7;
   --third-color: #414996;
 
-  --gradient-first: #ffffff;
-  --gradient-second: #d8d8ee;
-  --gradient-third: #c1c6e7;
-  --gradient-fourth: #a9b5df;
-
   --font-montserrat: "Montserrat", serif;
   --font-krona: "Krona One", serif;
 }
@@ -89,35 +84,5 @@
   width: 1.25em;
 }
 
-/* @property --angle {
-  syntax: "<angle>";
-  initial-value: 0deg;
-  inherits: false;
-}
-
-html {
-  margin: 0;
-  height: 200vh;
-  background: linear-gradient(
-    var(--angle),
-    var(--gradient-first),
-    var(--gradient-second),
-    var(--gradient-third),
-    var(--gradient-fourth)
-  );
-  transition: --angle 0.1s linear;
-  animation: rotate-gradient linear;
-  animation-timeline: scroll();
-  scroll-behavior: smooth;
-}
-
-@keyframes rotate-gradient {
-  0% {
-    --angle: 180deg;
-  }
-  100% {
-    --angle: 360deg;
-  }
-} */
 html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
