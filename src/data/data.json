@@ -180,5 +180,22 @@
       "path": "../../../assets/img/courses/masterPython.jpg",
       "link": "https://www.udemy.com/course/master-en-python-aprender-python-django-flask-y-tkinter/"
     }
+  ],
+  "proyects": [
+    {
+      "alt": "Proyecto 1",
+      "path": "../../../assets/img/proyectsDiagrams/SistemaDeActivoFijo.png",
+      "name": "Sistema de activo fijo"
+    },
+    {
+      "alt": "Proyecto 2",
+      "path": "../../../assets/img/proyectsDiagrams/SistemaRH.png",
+      "name": "Sistema de Recursos Humanos"
+    },
+    {
+      "alt": "Proyecto 3",
+      "path": "../../../assets/img/proyectsDiagrams/SistemaTransacciones.png",
+      "name": "Sistema de Transacciones"
+    }
   ]
 }

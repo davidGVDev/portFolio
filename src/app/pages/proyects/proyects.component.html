@@ -1,1 +1,26 @@
-<p>proyects works!</p>
+<div class="proyects-title">
+    <h2>Proyectos</h2>
+</div>
+
+<c-carousel class="carousel-container" transition="crossfade" [animate]="false">
+  <c-carousel-control caption="Previous" direction="prev">
+    <i class="ph-bold ph-caret-left ph-5x"></i>
+  </c-carousel-control>
+
+  <c-carousel-inner>
+    <c-carousel-item class="carousel-item" *ngFor="let proyect of proyects">
+      <img
+        alt="{{ proyect.name }}"
+        class="d-block w-100"
+        src="{{ proyect.path }}"
+      />
+      <c-carousel-caption class="d-none d-md-block">
+        <h3>{{ proyect.name }}</h3>
+      </c-carousel-caption>
+    </c-carousel-item>
+  </c-carousel-inner>
+
+  <c-carousel-control caption="Next" direction="next">
+    <i class="ph-bold ph-caret-right ph-5x"></i>
+  </c-carousel-control>
+</c-carousel>
