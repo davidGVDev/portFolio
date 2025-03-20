@@ -2,59 +2,98 @@
   "technologies": [
     {
       "alt": "HTML",
-      "path": "../../../assets/img/logos/html.png"
+      "path": "../../../assets/img/logos/html.png",
+      "name": "HTML"
     },
     {
       "alt": "CSS",
-      "path": "../../../assets/img/logos/css.png"
+      "path": "../../../assets/img/logos/css.png",
+      "name": "CSS"
     },
     {
       "alt": "Js",
-      "path": "../../../assets/img/logos/javaScript.png"
+      "path": "../../../assets/img/logos/javaScript.png",
+      "name": "JavaScript"
     },
     {
       "alt": "Ts",
-      "path": "../../../assets/img/logos/typeScript.png"
+      "path": "../../../assets/img/logos/typeScript.png",
+      "name": "TypeScript"
     },
     {
       "alt": "Bootstrap",
-      "path": "../../../assets/img/logos/bootstrap.png"
+      "path": "../../../assets/img/logos/bootstrap.png",
+      "name": "Bootstrap"
     },
     {
       "alt": "Angular",
-      "path": "../../../assets/img/logos/angular.png"
+      "path": "../../../assets/img/logos/angular.png",
+      "name": "Angular"
     },
     {
       "alt": "Docker",
-      "path": "../../../assets/img/logos/docker.png"
+      "path": "../../../assets/img/logos/docker.png",
+      "name": "Docker"
     },
     {
       "alt": "Nodejs",
-      "path": "../../../assets/img/logos/nodejs.png"
+      "path": "../../../assets/img/logos/nodejs.png",
+      "name": "Nodejs"
     },
     {
       "alt": "Git",
-      "path": "../../../assets/img/logos/git.png"
+      "path": "../../../assets/img/logos/git.png",
+      "name": "Git"
     },
     {
       "alt": "GitHub",
-      "path": "../../../assets/img/logos/github.png"
+      "path": "../../../assets/img/logos/github.png",
+      "name": "GitHub"
     },
     {
       "alt": "mySQL",
-      "path": "../../../assets/img/logos/mysql.png"
+      "path": "../../../assets/img/logos/mysql.png",
+      "name": "mySQL"
     },
     {
       "alt": "PostgreSQL",
-      "path": "../../../assets/img/logos/postgresql.png"
+      "path": "../../../assets/img/logos/postgresql.png",
+      "name": "PostgreSQL"
     },
     {
       "alt": "Electronjs",
-      "path": "../../../assets/img/logos/electron.png"
+      "path": "../../../assets/img/logos/electron.png",
+      "name": "Electronjs"
+    },
+    {
+      "alt": "react",
+      "path": "../../../assets/img/logos/react.png",
+      "name": "React"
+    },
+    {
+      "alt": "redux",
+      "path": "../../../assets/img/logos/redux.png",
+      "name": "Redux"
+    },
+    {
+      "alt": "oracle-weblogic",
+      "path": "../../../assets/img/logos/oracle-weblogic.png",
+      "name": "Oracle WebLogic"
+    },
+    {
+      "alt": "websphere",
+      "path": "../../../assets/img/logos/websphere.png",
+      "name": "WebSphere"
+    },
+    {
+      "alt": "jboss",
+      "path": "../../../assets/img/logos/jboss.png",
+      "name": "JBoss"
     },
     {
       "alt": "Vscode",
-      "path": "../../../assets/img/logos/vscode.png"
+      "path": "../../../assets/img/logos/vscode.png",
+      "name": "VSCode"
     }
   ],
   "experiences": [
@@ -111,22 +150,22 @@
     {
       "alt": "LinkedIn",
       "path": "../../../assets/img/socialNetworks/linkEdin.png",
-      "link":"https://www.linkedin.com/in/david-gustavo-ventura-villesca-2a158615b/"
+      "link": "https://www.linkedin.com/in/david-gustavo-ventura-villesca-2a158615b/"
     },
     {
       "alt": "GitHub",
       "path": "../../../assets/img/socialNetworks/github.png",
-      "link":"https://github.com/davidGVDev"
-    },  
+      "link": "https://github.com/davidGVDev"
+    },
     {
       "alt": "Instagram",
       "path": "../../../assets/img/socialNetworks/instagram.png",
-      "link":"https://www.instagram.com/david_ventur/"
+      "link": "https://www.instagram.com/david_ventur/"
     },
     {
       "alt": "Facebook",
       "path": "../../../assets/img/socialNetworks/facebook.png",
-      "link":"https://www.facebook.com/david.venturavillesca"
+      "link": "https://www.facebook.com/david.venturavillesca"
     }
   ],
   "courses": [
@@ -232,8 +271,6 @@
       "alt": "Practicando Lógica de Programación Challenge Amigo secreto",
       "path": "../../../assets/img/courses/challengeAmigoSecreto.jpg"
     }
-    
-
   ],
   "proyects": [
     {

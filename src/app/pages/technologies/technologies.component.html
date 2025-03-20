@@ -5,6 +5,7 @@
   <div class="technologies-container">
     <div class="technologies-item" *ngFor="let technology of technologies">
       <img [src]="technology.path" [alt]="technology.alt" />
+      <p>{{ technology.name }}</p>
     </div>
   </div>
 </div>
